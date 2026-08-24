@@ -86,6 +86,7 @@ Start here if you only want a short list.
 - [Google Arts & Culture](https://artsandculture.google.com/) - Museums, art, history, and culture in explorable formats. Good for older kids and project research.
 - [Smithsonian Learning Lab](https://learninglab.si.edu/) - Free Smithsonian collections and activities for teachers, families, and curious older kids.
 - [OLogy](https://www.amnh.org/explore/ology) - American Museum of Natural History's science site for kids, covering anthropology, astronomy, biodiversity, Earth science, and more.
+- [Random Animal Picker](https://randomanimalpicker.com/) - Free, no-signup animal reference for exploring a real animal with a photo, concise facts, source links, and related species. Useful for quick family, classroom, or homeschool exploration.
 
 ## Creativity, Making, And Design
 
