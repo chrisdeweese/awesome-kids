@@ -89,6 +89,7 @@ Start here if you only want a short list.
 
 ## Creativity, Making, And Design
 
+- [WowColoring](https://wowcoloring.com/collections) - Free printable coloring PDFs for kids and adults, with animal, nature, and seasonal themes for screen-free art activities. Downloads need no account; the site uses Google Analytics cookies.
 - [Tinkercad](https://www.tinkercad.com/) - Free browser-based 3D design, circuits, and codeblocks from Autodesk. Great bridge from play to making and 3D printing.
 - [Canva for Education](https://www.canva.com/education/) - Free for eligible K-12 teachers and students, with templates, visual projects, classroom integrations, and safety controls.
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - Free, playful music experiments for rhythm, melody, sound, and composition.
