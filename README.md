@@ -79,6 +79,7 @@ Start here if you only want a short list.
 ## Science, Nature, And The World
 
 - [NASA Space Place](https://spaceplace.nasa.gov/) - Free NASA science site with games, crafts, activities, articles, and Spanish-language support.
+- [Space Atlas](https://spaceatlasedu.org/) - Conceptual Moon-phase and Earth-season models for parents and teachers to preview and use in guided lessons. Uses Google Analytics 4 and AdSense; unsupervised browsing by children under 13 is not recommended ([privacy notice](https://spaceatlasedu.org/privacy/)).
 - [National Geographic Kids](https://kids.nationalgeographic.com/) - Animals, geography, science, history, quizzes, and short articles with high kid appeal. Watch for Disney/NatGeo privacy and ad settings.
 - [Mystery Science](https://mysteryscience.com/) - Standards-aligned elementary science lessons with hands-on activities. Great for teachers and homeschoolers; free trial availability changes.
 - [SciShow Kids](https://www.youtube.com/user/scishowkids) - Friendly science videos for younger kids. Use YouTube controls or watch together.
