@@ -63,6 +63,7 @@ Start here if you only want a short list.
 - [DragonBox](https://dragonbox.com/) - Paid math apps that turn number sense, algebra, geometry, multiplication, and chess into game-like learning. Strong value if you prefer one-time app purchases over subscriptions.
 - [Brilliant](https://brilliant.org/) - Interactive math, logic, and science courses for older kids and teens. Paid; best for motivated learners who like puzzles and explanations.
 - [Polypad](https://polypad.amplify.com/) - Virtual math manipulatives for fractions, geometry, algebra, probability, and patterns. Useful for teachers, homeschoolers, and visual explanations.
+* [Bella and Pan](https://bellaandpan.com). Offline arithmetic adventure for kindergarten through grade 5. On iPhone and iPad, children can turn over a problem card to see each step. One purchase, with no ads or subscriptions.
 
 ## Coding, AI, And Computer Science
 
